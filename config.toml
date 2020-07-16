@@ -1,0 +1,5 @@
+baseURL = "http://pages.github.io/kartaa/QAD"
+languageCode = "en-us"
+title = "Hugo Boss Builders"
+theme = "ananke"
+publishDir = "docs"
