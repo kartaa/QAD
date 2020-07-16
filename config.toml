@@ -1,4 +1,4 @@
-baseURL = "https://pages.github.io/kartaa/QAD"
+baseURL = "https://kartaa.github.io/QAD"
 languageCode = "en-us"
 title = "Hugo Boss Builders"
 theme = "ananke"
